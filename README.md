@@ -1,9 +1,6 @@
 # ChainCast :Crypto Price Predictor
-A professional, end-to-end data science project for predicting cryptocurrency closing prices using machine learning and financial time series analysis. Built using Python, scikit-learn, and Streamlit, this tool enables users to explore market behavior and generate real-time predictions with an interactive dashboard.
----
-## Project Overview
-This application forecasts the next closing price of various cryptocurrencies by leveraging historical OHLCV (Open, High, Low, Close, Volume) data and engineered features like moving averages, volatility, and daily return. Features are fed into a trained regression model, and insights are displayed via an intuitive, modern dashboard.
----
+ChainCast is a data science project that leverages machine learning to analyze and predict blockchain trends. It covers the complete ML workflow — from data preprocessing and feature engineering to model training and interactive visualization — showcasing how predictive analytics can provide insights into cryptocurrency and blockchain activity.
+
 ## Features
 - Multi-coin support from dynamic datasets (25+ crypto assets)
 - Technical feature engineering (MA, volatility, return)
